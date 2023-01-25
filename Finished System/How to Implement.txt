@@ -1,0 +1,4 @@
+1 - Copy and run 'Database Create' in SQL
+2 - Change 'connstr' from '@"Data Source=BLISSFUL-PC\MSSQLSERVER02;...etc" 
+to "@Data Source=(whatever device/drive the sql database was made on);...etc"
+3 - Copy the new connstr string and paste it into the connstr for the other forms.

@@ -1,0 +1,29 @@
+C:\Users\bliss\source\repos\WorkshopSystem\bin\Debug\WorkshopSystem.exe.config
+C:\Users\bliss\source\repos\WorkshopSystem\bin\Debug\WorkshopSystem.exe
+C:\Users\bliss\source\repos\WorkshopSystem\bin\Debug\WorkshopSystem.pdb
+C:\Users\bliss\source\repos\WorkshopSystem\obj\Debug\WorkshopSystem.csprojAssemblyReference.cache
+C:\Users\bliss\source\repos\WorkshopSystem\obj\Debug\WorkshopSystem.HomeForm.resources
+C:\Users\bliss\source\repos\WorkshopSystem\obj\Debug\WorkshopSystem.Properties.Resources.resources
+C:\Users\bliss\source\repos\WorkshopSystem\obj\Debug\WorkshopSystem.csproj.GenerateResource.cache
+C:\Users\bliss\source\repos\WorkshopSystem\obj\Debug\WorkshopSystem.exe
+C:\Users\bliss\source\repos\WorkshopSystem\obj\Debug\WorkshopSystem.pdb
+C:\Users\bliss\source\repos\WorkshopSystem\obj\Debug\WorkshopSystem.frmWorkshop.resources
+C:\Users\bliss\source\repos\WorkshopSystem\obj\Debug\WorkshopSystem.reportForm.resources
+C:\Users\bliss\source\repos\WorkshopSystem\obj\Debug\WorkshopSystem.frmStudents.resources
+C:\Users\bliss\source\repos\WorkshopSystem\obj\Debug\WorkshopSystem.frmEdit.resources
+C:\Users\bliss\source\repos\WorkshopSystem\obj\Debug\WorkshopSystem.frmCourse.resources
+C:\Users\bliss\Desktop\Website\Workshop - C# + SQL - 2020\Finished System\WorkshopSystem\bin\Debug\WorkshopSystem.exe.config
+C:\Users\bliss\Desktop\Website\Workshop - C# + SQL - 2020\Finished System\WorkshopSystem\bin\Debug\WorkshopSystem.exe
+C:\Users\bliss\Desktop\Website\Workshop - C# + SQL - 2020\Finished System\WorkshopSystem\bin\Debug\WorkshopSystem.pdb
+C:\Users\bliss\Desktop\Website\Workshop - C# + SQL - 2020\Finished System\WorkshopSystem\obj\Debug\WorkshopSystem.csproj.AssemblyReference.cache
+C:\Users\bliss\Desktop\Website\Workshop - C# + SQL - 2020\Finished System\WorkshopSystem\obj\Debug\WorkshopSystem.frmCourse.resources
+C:\Users\bliss\Desktop\Website\Workshop - C# + SQL - 2020\Finished System\WorkshopSystem\obj\Debug\WorkshopSystem.frmEdit.resources
+C:\Users\bliss\Desktop\Website\Workshop - C# + SQL - 2020\Finished System\WorkshopSystem\obj\Debug\WorkshopSystem.frmStudents.resources
+C:\Users\bliss\Desktop\Website\Workshop - C# + SQL - 2020\Finished System\WorkshopSystem\obj\Debug\WorkshopSystem.frmWorkshop.resources
+C:\Users\bliss\Desktop\Website\Workshop - C# + SQL - 2020\Finished System\WorkshopSystem\obj\Debug\WorkshopSystem.HomeForm.resources
+C:\Users\bliss\Desktop\Website\Workshop - C# + SQL - 2020\Finished System\WorkshopSystem\obj\Debug\WorkshopSystem.Properties.Resources.resources
+C:\Users\bliss\Desktop\Website\Workshop - C# + SQL - 2020\Finished System\WorkshopSystem\obj\Debug\WorkshopSystem.reportForm.resources
+C:\Users\bliss\Desktop\Website\Workshop - C# + SQL - 2020\Finished System\WorkshopSystem\obj\Debug\WorkshopSystem.csproj.GenerateResource.cache
+C:\Users\bliss\Desktop\Website\Workshop - C# + SQL - 2020\Finished System\WorkshopSystem\obj\Debug\WorkshopSystem.csproj.CoreCompileInputs.cache
+C:\Users\bliss\Desktop\Website\Workshop - C# + SQL - 2020\Finished System\WorkshopSystem\obj\Debug\WorkshopSystem.exe
+C:\Users\bliss\Desktop\Website\Workshop - C# + SQL - 2020\Finished System\WorkshopSystem\obj\Debug\WorkshopSystem.pdb
